@@ -1,0 +1,4 @@
+2020-05-30 21:53:44.593 [main] DEBUG sandy.TestLog4j2 - this is debug message
+2020-05-30 21:53:44.596 [main] INFO  sandy.TestLog4j2 - this is the information
+2020-05-30 21:53:44.596 [main] ERROR sandy.TestLog4j2 - this is error logs
+2020-05-30 21:53:44.596 [main] FATAL sandy.TestLog4j2 - this is fatal logs
